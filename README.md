@@ -14,3 +14,4 @@ In database there is are 2 tables:
 Need Full validation made for create & form
 cleaning code
 
+the form needs to work so, the user can add/edit the form + a profile image need to be added.
